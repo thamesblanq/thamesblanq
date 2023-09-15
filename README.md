@@ -31,6 +31,7 @@ My name is Obiwulu Eric God's will, and I'm proud to be Nigerian. I stand tall, 
 ## My Skills
 
 - 💻 Fullstack Web Development (MERN Stack)
+- 🐿️ Golang for backend development
 - 🐍 Python for AI and Data Science
 - 🎮 C++ for Game Development
 
