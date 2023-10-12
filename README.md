@@ -31,9 +31,9 @@ My name is Obiwulu Eric God's will, and I'm proud to be Nigerian. I stand tall, 
 ## My Skills
 
 - 💻 Fullstack Web Development (MERN Stack)
-- 🐿️ Golang for backend development
-- 🐍 Python for AI and Data Science
-- 🎮 C++ for Game Development
+- 🐿️ Learning Golang for backend development
+- 🐍 Learning Python for AI and Data Science
+- 🎮 Learning C++ for Game Development
 
 ## Contact Me
 
@@ -47,9 +47,10 @@ Feel free to connect with me and explore our shared interests:
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://cargo-8hou.onrender.com): Cargo Site Project.
-- [Project 2](https://omnigpt.onrender.com): OmniGPT Challenge Project.
-- [Project 3](https://acme-rockets-ydoi.onrender.com): Acme Rockets Project.
+- [Project 1](https://cargo-8hou.onrender.com): Cargo Site Page.
+- [Project 2](https://omnigpt.onrender.com): OmniGPT Challenge Page.
+- [Project 3](https://acme-rockets-ydoi.onrender.com): Acme Rockets Page.
+- [Project 4](https://getlinked-dkx8.onrender.com): getLinked.ai Challenge Landing page
 
 Feel free to explore and collaborate!
 
