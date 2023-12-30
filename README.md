@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 
 # Hello, World! 👋
 
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzcmU5M29janoyYjNnczdmYjN4aWx4a3BiZDdxYmxsdHZnZGNjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkmmDHerqnGGamvCUj/giphy.gif)
+![Profile Banner]
 
 ## About Me
 
-My name is Obiwulu Eric God's will, and I'm proud to be Nigerian. I stand tall, both in stature and in my passion for technology. 🇳🇬
+I am Obiwulu Eric God's will, I stand tall, both in stature and in my passion for technology. 🇳🇬
 
 - 🔭 Fullstack MERN Developer, exploring the world of web development.
 - 🌱 Constantly learning, with a keen interest in Golang, Python for AI, and C++ for gaming.
@@ -30,10 +30,10 @@ My name is Obiwulu Eric God's will, and I'm proud to be Nigerian. I stand tall, 
 
 ## My Skills
 
-- 💻 Fullstack Web Development (MERN Stack)
+- 💻 Fullstack Web Development (MERN Stack) with sometimes Appwrite...currently learning TypeScript
 - 🐿️ Learning Golang for backend development
 - 🐍 Learning Python for AI and Data Science
-- 🎮 Learning C++ for Game Development
+- 🎮 Might learn C++ for Game Development
 
 ## Contact Me
 
@@ -43,16 +43,7 @@ Feel free to connect with me and explore our shared interests:
 - 🔗 LinkedIn: [Obiwulu Eric](https://www.linkedin.com/in/obiwulu-eric-485627224/)
 - 🐦 Twitter: [@lyfof_thames](https://twitter.com/lyfof_thames)
 
-## Projects
 
-Here are some of the projects I've been working on:
-
-- [Project 1](https://cargo-8hou.onrender.com): Cargo Site Page.
-- [Project 2](https://omnigpt.onrender.com): OmniGPT Challenge Page.
-- [Project 3](https://acme-rockets-ydoi.onrender.com): Acme Rockets Page.
-- [Project 4](https://getlinked-dkx8.onrender.com): getLinked.ai Challenge Landing page
-
-Feel free to explore and collaborate!
 
 ## Thanks for Visiting!
 
