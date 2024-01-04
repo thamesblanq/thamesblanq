@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Obiwulu Eric God's will, I stand tall, both in stature and in my passion for technology. 🇳🇬
 
-- 🔭 Fullstack MERN Developer, exploring the world of web development.
+- 🔭 Fullstack MERN Developer, exploring the world of web development. more proficient with frontend than backend
 - 🌱 Constantly learning, with a keen interest in Golang, Python for AI, and C++ for gaming.
 - 📚 Currently studying dentistry at the University of Lagos, embracing both the medical and tech worlds.
 - 🌌 Tech enthusiast with a love for innovation. Huawei and Apple have fueled my passion for the tech space.
@@ -42,6 +42,7 @@ Feel free to connect with me and explore our shared interests:
 - 📧 Email: ericobiwulu@gmail.com
 - 🔗 LinkedIn: [Obiwulu Eric](https://www.linkedin.com/in/obiwulu-eric-485627224/)
 - 🐦 Twitter: [@lyfof_thames](https://twitter.com/lyfof_thames)
+- 🐦 Website: [blanqed](https://blanqed.vercel.app)
 
 
 
