@@ -40,7 +40,7 @@ I am Obiwulu Eric God's will, I stand tall, both in stature and in my passion fo
 Feel free to connect with me and explore our shared interests:
 
 - 📧 Email: ericobiwulu@gmail.com
-- 🔗 LinkedIn: [Obiwulu Eric](https://www.linkedin.com/in/obiwulu-eric-485627224/)
+- 🔗 LinkedIn: [Obiwulu Eric](https://www.linkedin.com/in/obiwulu-god-swill-485627224/)
 - 🐦 Twitter: [@lyfof_thames](https://twitter.com/lyfof_thames)
 - 🐦 Website: [blanqed](https://blanqed.vercel.app)
 
